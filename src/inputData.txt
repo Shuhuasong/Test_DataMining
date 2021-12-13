@@ -1,0 +1,10 @@
+9 6
+Type		Overall_Type	Arrangement    Margin		Margin_sub-category		Count
+Dogwood	    Simple		    Opposite		Entire		X		        	     2
+Maple		Simple		    Opposite		Lobed		X			             2
+Ash		    Compound		Opposite		X		    X			             40
+Hickey		Compound		X		        Toothed		X			             2
+Locust		Compound		Alternate		Entire		X			             2
+Cherry		Simple		    Alternate		Toothed		X			             2
+White_Oak	Simple		    Alternate		Lobed		Rounded			         100
+Red_Oak		Simple		    Alternate		Lobed		Pointed			         100
